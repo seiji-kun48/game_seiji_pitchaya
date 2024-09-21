@@ -1,0 +1,20 @@
+@font-face {
+    font-family: '#ZF Terminal';
+    src: url('subset-ZFTerminal.woff2') format('woff2'),
+        url('subset-ZFTerminal.woff') format('woff'),
+        url('subset-ZFTerminal.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ZF #2ndPixelus';
+    src: url('subset-ZF2ndPixelus.woff2') format('woff2'),
+        url('subset-ZF2ndPixelus.woff') format('woff'),
+        url('subset-ZF2ndPixelus.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
